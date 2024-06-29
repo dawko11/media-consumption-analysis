@@ -1,47 +1,33 @@
-# Media Consumption Analysis
+# Analiza Konsumpcji Mediów
 
-This project analyzes media consumption and creates audience models using Python.
+Ten projekt analizuje konsumpcję mediów i tworzy modele odbiorców przy użyciu Pythona.
 
-## Project Structure
+## Struktura Projektu
 
-- `generate_fake_data.py`: Script to generate fake media consumption data.
-- `data_preprocessing.py`: Data cleaning and preprocessing.
-- `data_analysis.py`: Data exploration and visualization.
-- `modeling.py`: Audience segmentation and modeling.
+- `generate_fake_data.py`: Skrypt do generowania fikcyjnych danych dotyczących konsumpcji mediów.
+- `data_preprocessing.py`: Przetwarzanie i czyszczenie danych.
+- `data_analysis.py`: Eksploracja danych i wizualizacja.
+- `modeling.py`: Segmentacja odbiorców i modelowanie.
 
-## How to Run
+## Jak Uruchomić
 
-1. Install required libraries:
+1. Zainstaluj wymagane biblioteki:
     ```
     pip install -r requirements.txt
     ```
 
-2. Generate fake data:
+2. Generowanie danych:
     ```
     python generate_fake_data.py
     ```
 
-3. Run the scripts in order:
+3. Uruchom skrypty w kolejności:
     ```
     python data_preprocessing.py
     python data_analysis.py
     python modeling.py
     ```
 
-## Data
+## Dane
 
-Fictional data is used in this project. Replace with real data as needed.
-
-## Future
-In the future, the project could be further developed by:
-
-Integrating real-world data on media consumption: 
-By incorporating real-time or historical data from actual media consumption patterns, 
-the project could provide more precise and relevant insights, 
-aligning closely with real-world scenarios and trends.
-
-Implementing interactive tools for result visualization and reporting: 
-Developing interactive dashboards or visualization tools would facilitate easier exploration and 
-interpretation of the analyzed data. 
-This would enable stakeholders to interactively explore trends, patterns, and 
-segmentation results derived from media consumption data.
+W projekcie użyto fikcyjnych danych. W razie potrzeby, można zastąpić je rzeczywistymi danymi.
