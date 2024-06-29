@@ -32,4 +32,16 @@ This project analyzes media consumption and creates audience models using Python
 
 Fictional data is used in this project. Replace with real data as needed.
 
+## Future
+In the future, the project could be further developed by:
 
+Integrating real-world data on media consumption: 
+By incorporating real-time or historical data from actual media consumption patterns, 
+the project could provide more precise and relevant insights, 
+aligning closely with real-world scenarios and trends.
+
+Implementing interactive tools for result visualization and reporting: 
+Developing interactive dashboards or visualization tools would facilitate easier exploration and 
+interpretation of the analyzed data. 
+This would enable stakeholders to interactively explore trends, patterns, and 
+segmentation results derived from media consumption data.
