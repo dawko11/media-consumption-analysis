@@ -1,5 +1,8 @@
+import pandas as pd
 from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
+
+df = pd.read_csv('data/processed_media_consumption.csv')
 
 features = ['Age', 'Gender', 'TimeSpent']
 features += [col for col in df.columns if 'ContentType' in col or 'Device' in col]

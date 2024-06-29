@@ -4,6 +4,7 @@ This project analyzes media consumption and creates audience models using Python
 
 ## Project Structure
 
+- `generate_fake_data.py`: Script to generate fake media consumption data.
 - `data_preprocessing.py`: Data cleaning and preprocessing.
 - `data_analysis.py`: Data exploration and visualization.
 - `modeling.py`: Audience segmentation and modeling.
@@ -12,10 +13,15 @@ This project analyzes media consumption and creates audience models using Python
 
 1. Install required libraries:
     ```
-    pip install pandas numpy matplotlib seaborn scikit-learn
+    pip install -r requirements.txt
     ```
 
-2. Run the scripts in order:
+2. Generate fake data:
+    ```
+    python generate_fake_data.py
+    ```
+
+3. Run the scripts in order:
     ```
     python data_preprocessing.py
     python data_analysis.py
@@ -25,4 +31,5 @@ This project analyzes media consumption and creates audience models using Python
 ## Data
 
 Fictional data is used in this project. Replace with real data as needed.
-# media-consumption-analysis
+
+
