@@ -1,25 +1,25 @@
 ## Wykonawcy
-Dawid Miter 52833
-Anna Kaim 52833
+- Dawid Miter 52833
+- Anna Kaim 52833
 
 ## Technologia
-Python
+- Python
 Biblioteki :
--Pandas
--NumPy
--Matplotlib
--Seaborn
--Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
 
 ## Funkcje 
 Oto główne funkcje tego projektu:
 
-1.Generowanie Fikcyjnych Danych
-2.Przetwarzanie Danych
-3.Analiza Eksploracyjna
-4.Modelowanie Odbiorców
-5.Integracja i Zapis
-6.Interakcja i prezentacja wyników
+- Generowanie Fikcyjnych Danych
+- Przetwarzanie Danych
+- Analiza Eksploracyjna
+- Modelowanie Odbiorców
+- Integracja i Zapis
+- Interakcja i prezentacja wyników
 
 ## Przyszłość
 
